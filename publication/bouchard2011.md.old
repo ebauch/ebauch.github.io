@@ -1,0 +1,24 @@
++++
+abstract = "We demonstrate magnetometry by detection of the spin state of high-density nitrogen-vacancy (NV) ensembles in diamond using optical absorption at 1042 nm. With this technique, measurement contrast and collection efficiency can approach unity, leading to an increase in magnetic sensitivity compared to the more common method of collecting red fluorescence. Working at 75 K with a sensor with effective volume 50x50x300 $\\mu$m3, we project photon shot-noise limited sensitivity of 5 pT in one second of acquisition and bandwidth from DC to a few MHz. Operation in a gradiometer configuration yields a noise floor of 7 nTrms at {\\~{}}110 Hz in one second of acquisition. We also present measurements of the zero-field splitting parameters as a function of temperature, a calibration which is essential for ultra-sensitive magnetometry at low frequencies."
+abstract_short = ""
+authors = ["Bouchard, Louis-S", "Acosta, Victor M", "Bauch, Erik", "Budker, Dmitry"]
+date = "2011-02-01"
+image_preview = ""
+math = true
+publication_types = ["2"]
+publication = "New Journal of Physics"
+publication_short = ""
+selected = false
+title = "Detection of the Meissner effect with a diamond magnetometer"
+url_code = ""
+url_dataset = ""
+url_pdf = "/pdf/bouchard2011.pdf"
+url_project = ""
+url_slides = ""
+url_video = ""
+
+[[url_custom]]
+name = "NJP"
+url = "http://stacks.iop.org/1367-2630/13/i=2/a=025017?key=crossref.1880f57f004f936b939e0f50fa0c320a"
+
++++
